@@ -3,6 +3,8 @@ __pycache__/
 # *.py[codz]
 *$py.class
 
+Qt6WebEngineCore.dll
+
 # C extensions
 *.so
 
@@ -14,7 +16,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/
