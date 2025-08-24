@@ -11,7 +11,7 @@ Release Note:
 """
 DESCRIPTION = 'MDK Developer GUI Application'
 NAME = 'mdkDeveloper'
-VERSION = 'v0.0.1'
+VERSION = 'v0.0.2'
 
 
 print(f'MDK | {NAME} {VERSION} : {DESCRIPTION} for Python')
